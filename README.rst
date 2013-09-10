@@ -15,14 +15,13 @@ helps users to create and update the bookmarks on the videos.
 Run proxyMITY-WiFi
 ------------------
 
-1. Create an Apache Server.
-`Click here <https://help.ubuntu.com/10.04/serverguide/httpd.html>`_ for installation guide of Apache Server on ubuntu.
+* Create an Apache Server.(`Click here <https://help.ubuntu.com/10.04/serverguide/httpd.html>`_ for installation guide of Apache Server on ubuntu.)
 
-2. Create folders named videos and xml in var/www/.
+* Create folders named videos and xml in var/www/.
 
-3. In the videos folder insert video lectures and in xml folder insert their respective xml files.
+* In the videos folder insert video lectures and in xml folder insert their respective xml files.
 
-4. Lecture videos should be of mp4 format or 3GP format.  
+* Lecture videos should be of mp4 format or 3GP format.  
 
 (NOTE: the name of the video lecture and the xml file should be same)
 
