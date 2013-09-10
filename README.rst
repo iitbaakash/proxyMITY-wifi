@@ -25,5 +25,5 @@ Run proxyMITY-WiFi
 Download
 --------
 
-`Click here <http://www.it.iitb.ac.in/AakashApps/repo/proxyMITY_fdroid_Wifi-1.0.apk	>`_ to download the proxyMITY-WiFi application.
+`Click here <http://www.it.iitb.ac.in/AakashApps/repo/proxyMITY_fdroid_Wifi-1.0.apk>`_ to download the proxyMITY-WiFi application.
 
