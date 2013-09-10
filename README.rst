@@ -12,7 +12,7 @@ anywhere, and at their own pace. They can also navigate through the topics withi
 They can also play the subtitles with the video for better understanding. Bookmarking feature
 helps users to create and update the bookmarks on the videos.
 
-Instalation
+Installation
 ------------------
 
 #. Download the latest proxyMITY-WiFi.apk from `here
